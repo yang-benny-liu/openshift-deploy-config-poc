@@ -8,7 +8,7 @@ Complete the basic HA deployment, Networkpolicy configuration, Metrics & Logging
 You can refer to the host file configuration in inventory directory for openshift platform deployment
 
 
-The File folder is used to define resource limitation range, it is with referrence: https://github.com/redhat-cop/openshift-toolkit/tree/master/quota-management
+The quota-file folder is used to define resource limitation range, it is with referrence: https://github.com/redhat-cop/openshift-toolkit/tree/master/quota-management
 
 
-The params/projects/templates folders are used to create project/bc/dc for clients，it is same as using openshift-applier
+The appier/params applier/projects applier/templates folders are used to create project/bc/dc for clients，it is same as using openshift-applier
